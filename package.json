@@ -1,0 +1,30 @@
+{
+  "name": "hubot-scripts-german-style",
+  "version": "1.0.0",
+
+  "author": "Manuel Möhlmann",
+
+  "keywords": [
+    "hubot",
+    "plugin",
+    "scripts",
+    "german",
+    "style"
+  ],
+
+  "description": "Some hubot scripts for german websites",
+
+  "licenses": [{
+    "type": "MIT",
+    "url": "https://github.com/quitschibo/hubot-scripts-german-style/raw/master/LICENSE"
+  }],
+
+  "repository" : {
+    "type": "git",
+    "url": "https://github.com/quitschibo/hubot-scripts-german-style.git"
+  },
+
+  "dependencies": {
+    "xml2js": "0.2.8"
+  }
+}
