@@ -17,7 +17,7 @@ Parser = require("xml2js").Parser
 
 module.exports = (robot) ->
   robot.respond /heise/i, (msg) ->
-    msg.http("http://www.heise.de/newsticker/heise-atom.xml")
+    msg.http("http://heise.de.feedsportal.com/c/35207/f/653902/index.rss")
       .get() (err, res, body) ->
         parser = new Parser
         parser.parseString body, (error, items) ->
