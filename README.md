@@ -1,4 +1,4 @@
-hubot-scripts
+hubot-scripts-german-style
 =============
 
-Some Hubot scripts
+Some Hubot scripts for german websites.
