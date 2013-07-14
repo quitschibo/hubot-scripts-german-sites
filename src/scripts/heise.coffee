@@ -2,7 +2,7 @@
 #   Hubot script for getting the latest news from heise.de
 #
 # Dependencies:
-#   xml2js
+#   "xml2js": "0.2.8"
 #
 # Configuration:
 #   none
