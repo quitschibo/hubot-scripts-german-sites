@@ -1,4 +1,4 @@
-hubot-scripts-german-style
+hubot-scripts-german-sites
 =============
 
 Some Hubot scripts for german websites.
@@ -9,4 +9,4 @@ Some Hubot scripts for german websites.
 
 ## License
 
-[MIT License](https://github.com/quitschibo/hubot-scripts-german-style/blob/master/LICENSE.txt)
+[MIT License](https://github.com/quitschibo/hubot-scripts-german-sites/blob/master/LICENSE.txt)

@@ -1,5 +1,5 @@
 {
-  "name": "hubot-scripts-german-style",
+  "name": "hubot-scripts-german-sites",
   "version": "1.0.0",
 
   "author": "Manuel Möhlmann",
@@ -16,12 +16,12 @@
 
   "licenses": [{
     "type": "MIT",
-    "url": "https://github.com/quitschibo/hubot-scripts-german-style/raw/master/LICENSE"
+    "url": "https://github.com/quitschibo/hubot-scripts-german-sites/raw/master/LICENSE"
   }],
 
   "repository" : {
     "type": "git",
-    "url": "https://github.com/quitschibo/hubot-scripts-german-style.git"
+    "url": "https://github.com/quitschibo/hubot-scripts-german-sites.git"
   },
 
   "dependencies": {
