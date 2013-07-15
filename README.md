@@ -12,3 +12,5 @@ Some Hubot scripts for german websites.
 ## License
 
 [MIT License](https://github.com/quitschibo/hubot-scripts-german-sites/blob/master/LICENSE.txt)
+
+[![Dependency Status](https://gemnasium.com/quitschibo/hubot-scripts-german-sites.png)](https://gemnasium.com/quitschibo/hubot-scripts-german-sites)
