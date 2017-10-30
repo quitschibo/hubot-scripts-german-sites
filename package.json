@@ -27,6 +27,6 @@
   "main" : "./src/index.coffee",
   
   "dependencies": {
-    "xml2js": "0.2.8"
+    "xml2js": "0.4.19"
   }
 }
