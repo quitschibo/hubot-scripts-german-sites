@@ -1,6 +1,5 @@
 hubot-scripts-german-sites
-=============
-[![Dependency Status](https://gemnasium.com/quitschibo/hubot-scripts-german-sites.png)](https://gemnasium.com/quitschibo/hubot-scripts-german-sites)
+==========================
 
 Some Hubot scripts for german websites.
 
