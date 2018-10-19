@@ -17,7 +17,7 @@ Parser = require("xml2js").Parser
 
 module.exports = (robot) ->
   robot.respond /golem/i, (msg) ->
-    msg.http("http://golem.de.dynamic.feedsportal.com/pf/578068/http://rss.golem.de/rss.php?feed=RSS2.0")
+    msg.http("https://rss.golem.de/rss.php?feed=RSS2.0")
       .get() (err, res, body) ->
         parser = new Parser
         parser.parseString body, (error, items) ->
